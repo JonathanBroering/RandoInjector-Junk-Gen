@@ -18,7 +18,6 @@ This is not a 100% safe way to do not get VAC banend (i guess). But should help 
 Stay safe.
 
 
-To make it more simple i wrote the script.
 The code might be shitty, but it does work.
 
 Contact: me [at] jnthn [dot] party
