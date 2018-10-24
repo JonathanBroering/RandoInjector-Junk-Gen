@@ -20,4 +20,4 @@ Stay safe.
 
 The code might be shitty, but it does work.
 
-Contact: me [at] jnthn [dot] party
+Contact: me [at] jonathanb [dot] de
