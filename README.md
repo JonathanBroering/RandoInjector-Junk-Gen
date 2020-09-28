@@ -15,9 +15,3 @@ From Source of RandoInjector:
 
 This is not a 100% safe way to do not get VAC banend (i guess). But should help you.
 
-Stay safe.
-
-
-The code might be shitty, but it does work.
-
-Contact: me [at] jonathanb [dot] de
