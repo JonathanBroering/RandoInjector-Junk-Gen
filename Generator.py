@@ -1,6 +1,5 @@
 import random
-print('This is a free Project by Jonathan B. (Jnthn). It is licenced under the MIT License.')
-print('--- JonathanB.de ---')
+print('This is a free Project by Jonathan B. (jnthn-b). It is licenced under the MIT License.')
 amount = input('Enter the Amount of Junk Blocks: ')
 count = 0
 
